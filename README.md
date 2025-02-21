@@ -1,4 +1,4 @@
-# miniOS
+# miniOS-with-FAT-Block-Based-Storage
 
 ## 📂 Operating System File System Simulation
 
