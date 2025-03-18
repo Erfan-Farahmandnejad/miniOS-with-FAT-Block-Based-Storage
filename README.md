@@ -41,7 +41,7 @@ Ensure you have:
 ### **2️⃣ Clone the Repository**
 
 ```bash
-git clone https://github.com/Erfan-fn/miniOS.git
+git clone https://github.com/Erfan-Farahmandnejad/miniOS.git
 cd miniOS
 ```
 
